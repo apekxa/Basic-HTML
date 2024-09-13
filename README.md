@@ -19,3 +19,5 @@ p: Represents a paragraph.
 
 
 hr: Adds a horizontal rule, used to visually separate sections.
+
+h1, h2, h3, h4 , h5 ,h6.: Represent different levels of headings.
